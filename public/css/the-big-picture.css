@@ -1,0 +1,22 @@
+/*!
+ * Start Bootstrap - The Big Picture (https://startbootstrap.com/template-overviews/the-big-picture)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
+ */
+
+/*! make the height 100% so we can align text vertically*/
+html, body, section{height: 100%; margin: 0; padding: 0;}
+
+body {
+  background: url('../images/ryan-stone-U3cctUBucn0-unsplash.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+
+/*! Wi want to make image with circular_image class to be a circle*/
+.circular_image {
+  border-radius: 50%;
+}

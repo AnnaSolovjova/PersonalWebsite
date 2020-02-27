@@ -1,0 +1,8 @@
+.fa {
+    color: black;
+    margin: 2px;
+}
+
+.fa:hover{
+    color: white
+}
